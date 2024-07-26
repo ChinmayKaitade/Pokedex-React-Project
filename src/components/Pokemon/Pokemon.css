@@ -1,0 +1,29 @@
+.pokemon {
+  font-family: "Poppins";
+  margin-top: 2rem;
+  flex-basis: 20%;
+  height: 200px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pokemon-name {
+  font-size: larger;
+  letter-spacing: 0.3rem;
+}
+
+.pokemon-image {
+  margin-top: 1rem;
+  height: 150px;
+  max-width: 80%;
+}
+
+.pokemon:hover {
+  background-color: beige;
+  scale: 1.1;
+  transition: all ease-in-out 0.3s;
+  border-radius: 8px;
+  font-weight: 700;
+}
