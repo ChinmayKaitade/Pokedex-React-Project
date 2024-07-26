@@ -1,5 +1,5 @@
 .pokemon {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   margin-top: 2rem;
   flex-basis: 20%;
   height: 200px;
