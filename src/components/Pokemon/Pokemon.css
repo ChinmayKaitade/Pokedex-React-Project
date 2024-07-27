@@ -12,6 +12,7 @@
 .pokemon-name {
   font-size: larger;
   letter-spacing: 0.3rem;
+  text-decoration: none;
 }
 
 .pokemon-image {

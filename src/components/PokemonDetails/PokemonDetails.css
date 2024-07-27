@@ -1,0 +1,37 @@
+.pokemon-details-wrapper {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pokemon-details-name {
+  font-size: x-large;
+  color: black;
+  margin-top: 0.8rem;
+}
+
+.pokemon-details-name > span {
+  letter-spacing: 0.5rem;
+  font-size: 2.3rem;
+  text-transform: uppercase;
+}
+
+.pokemon-details-types {
+  display: flex;
+  gap: 3rem;
+  margin-top: 3rem;
+  font-size: larger;
+}
+
+.pokemon-details-types div {
+  border: 1px solid gainsboro;
+  border-radius: 15px;
+  padding: 7px 14px;
+  background-color: gainsboro;
+}
+
+.pokemon-details-image {
+  margin-top: 1rem;
+  max-height: 200px;
+}
