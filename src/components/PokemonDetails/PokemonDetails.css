@@ -28,7 +28,9 @@
   border: 1px solid gainsboro;
   border-radius: 12px;
   padding: 7px 16px;
-  background-color: deepskyblue;
+  background-color: #b0b0b0;
+  color: black;
+  
 }
 
 .pokemon-details-image {
