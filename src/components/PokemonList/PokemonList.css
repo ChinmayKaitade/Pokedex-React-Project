@@ -12,11 +12,18 @@
   justify-content: space-evenly;
 }
 
-.controls button{
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+.controls button {
+  font-size: 21px;
+  padding: 0.5rem 1rem;
   margin-top: 2rem;
   margin-left: 1rem;
+  background-color: #494949;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+.controls button:hover {
+  background-color: #3a3a3a;
+  transition: all ease-in-out 0.3s;
 }

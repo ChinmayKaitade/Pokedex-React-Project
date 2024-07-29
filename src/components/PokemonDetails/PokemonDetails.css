@@ -19,16 +19,16 @@
 
 .pokemon-details-types {
   display: flex;
-  gap: 3rem;
-  margin-top: 3rem;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
   font-size: larger;
 }
 
 .pokemon-details-types div {
   border: 1px solid gainsboro;
-  border-radius: 15px;
-  padding: 7px 14px;
-  background-color: gainsboro;
+  border-radius: 12px;
+  padding: 7px 16px;
+  background-color: deepskyblue;
 }
 
 .pokemon-details-image {
